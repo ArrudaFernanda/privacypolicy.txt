@@ -1,0 +1,16 @@
+PRIVACY POLICY
+
+For our app to work, we collect some information such as:
+- Networks and connection:
+We check the status and access of your device to the internet.
+- Analysis:
+Through third party services and Google Analytics we collect information about application performance and advertising.
+
+
+POLÍTICA DE PRIVACIDADE
+
+Para nosso aplicativo funcionar, coletamos algumas informações como:
+- Redes e conexão:
+Checamos o estado e o acesso de seu dispositivo a internet.
+- Análises:
+Através de serviços de terceiros e do Google Analytics coletamos informações sobre o desempenho do aplicativo e publicidade.
